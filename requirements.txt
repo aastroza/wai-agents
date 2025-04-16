@@ -1,0 +1,2 @@
+workflowai==0.6.8
+python-dotenv
